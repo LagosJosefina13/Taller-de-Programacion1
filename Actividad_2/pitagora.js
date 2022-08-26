@@ -1,6 +1,7 @@
 export default class Pitagora{
     cateto_opuesto;
     cateto_adyacente;
+    
     constructor(){}
     
     calcular_hipotenusa(){
